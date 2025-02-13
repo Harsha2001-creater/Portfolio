@@ -22,8 +22,7 @@ Welcome to my GitHub portfolio! I’m **Sri Harsha Vardhan**, a passionate **Dat
 ---
 ## 📫 Let's Connect!  
 - 🌐 **Portfolio:** [Visit My Portfolio](https://exquisite-meerkat-0fb0e0.netlify.app/)  
-- 💼 **LinkedIn:** []  
-- 📧 **Email:** [Your Email Address]  
+- 💼 **LinkedIn:** [Connect to me in Linkdin](https://www.linkedin.com/in/sriharshavardhanm/)  
 
 ---
 
